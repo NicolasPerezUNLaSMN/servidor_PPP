@@ -125,7 +125,8 @@ JSON:
   ```
 <br>
 ### Documentacion API :books:
-[![Documentación General](https://run.pstmn.io/button.svg)](https://drive.google.com/drive/folders/1SOA-aPLss_lC6MiSTL49MDMunsVcb6HZ?usp=sharing)
+<br>
+[Documentación General](https://drive.google.com/drive/folders/1SOA-aPLss_lC6MiSTL49MDMunsVcb6HZ?usp=sharing)
 <br>
 
 
